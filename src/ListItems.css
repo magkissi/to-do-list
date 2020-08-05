@@ -1,0 +1,22 @@
+.list {
+    color: whitesmoke;
+    background-color: lightgreen;
+    width: 80%;
+    margin: 10px auto;
+    border-radius: 5px;
+    height: 50px;
+
+}
+
+.list p {
+padding: 10px;
+}
+
+.list img {
+    float: right;
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+    margin-right: 5px;
+}
+
